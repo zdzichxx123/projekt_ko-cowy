@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1717443187 source:c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\binary_converter.c
+	"binary_converter.h"
+	<stdio.h>
+
+1717443228 c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\binary_converter.h
+
+1717446220 source:c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\array_operations.c
+	"array_operations.h"
+	<stdio.h>
+
+1717446204 c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\array_operations.h
+
+1717444809 source:c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\calculator.c
+
+1717446735 source:c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\hex_to_decimal.c
+	"hex_to_decimal.h"
+	<stdio.h>
+
+1717446717 c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\hex_to_decimal.h
+
+1717445121 source:c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\name_formatter.c
+	"name_formatter.h"
+	<stdio.h>
+	<string.h>
+
+1717445103 c:\users\hubert\desktop\c jak cwel\projekt_koñcowy\name_formatter.h
+
